@@ -40,7 +40,7 @@
 
 指南:
   label: '指南'
-  permalink: 'guides'
+  permalink: '/guides'
   description: '指南'
 
 Alpha:
