@@ -46,19 +46,19 @@
 Alpha:
   label: 'α'
   permalink: '/alpha'
-  description: 'α 书院人员'
+  description: 'α 书院'
 
 Beta:
   label: 'β'
   permalink: '/beta'
-  description: 'β 书院人员'
+  description: 'β 书院'
 
 Gamma:
   label: 'γ'
   permalink: '/gamma'
-  description: 'γ 书院人员'
+  description: 'γ 书院'
 
 Delta:
   label: 'δ'
   permalink: '/delta'
-  description: 'δ 书院人员'
+  description: 'δ 书院'
